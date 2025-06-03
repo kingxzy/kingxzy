@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data analytics at Tuggedah with the goal of becoming a data professional
 - 💞️ I’m looking to collaborate on data related projects
 - 📫 How to reach me +2348147310241
-- ⚡ Fun fact: ... I like challenging and mental stimukating tasks
+- ⚡ Fun fact: I like challenging and mental stimulating tasks
 
 <!---
 kingxzy/kingxzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
