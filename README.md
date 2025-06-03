@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingsley Godsob
+- 👋 Hi, I’m @kingsley Godson
 - 👀 I’m interested in Data analysis and turning data into meaningful insights
 - 🌱 I’m currently learning data analytics at Tuggedah with the goal of becoming a data professional
 - 💞️ I’m looking to collaborate on data related projects
